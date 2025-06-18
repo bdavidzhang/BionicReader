@@ -4,8 +4,6 @@ Velocity Text is a powerful Chrome extension designed to enhance your reading sp
 
 Transform your Browse experience, whether you're scanning daily news, studying dense articles, or just Browse the web.
 
-![Velocity Text Screenshot](https://i.imgur.com/your-screenshot-url.png)  ---
-
 ## Features ✨
 
 * **Boost Reading Speed:** Effortlessly glide through text and absorb information faster.
