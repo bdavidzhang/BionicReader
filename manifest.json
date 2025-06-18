@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Velocity Text",
   "version": "2.0",
-  "description": "Enhance your reading speed and focus with Velocity Text. This extension bolds the start of each word, guiding your eyes for a faster, smoother reading experience.",
+  "description": "Enhance your reading speed and focus with Velocity Text. This extension bolds the start of each word.",
   "permissions": [
     "activeTab",
     "scripting",
