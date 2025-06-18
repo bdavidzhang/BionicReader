@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Bionic Reading Enhancer",
+  "name": "Velocity Text",
   "version": "2.0",
-  "description": "Bolds the first half of words on any webpage for faster reading.",
+  "description": "Enhance your reading speed and focus with Velocity Text. This extension bolds the start of each word, guiding your eyes for a faster, smoother reading experience.",
   "permissions": [
     "activeTab",
     "scripting",
@@ -24,7 +24,7 @@
   ],
   "web_accessible_resources": [
     {
-      "resources": ["bionic-reader-processed"],
+      "resources": ["velocity-text-processed"],
       "matches": ["<all_urls>"]
     }
   ]
